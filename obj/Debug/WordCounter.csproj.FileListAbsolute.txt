@@ -1,0 +1,6 @@
+C:\Users\MONSTER\source\repos\WordCounter\WordCounter\obj\Debug\WordCounter.csprojAssemblyReference.cache
+C:\Users\MONSTER\source\repos\WordCounter\WordCounter\bin\Debug\WordCounter.exe.config
+C:\Users\MONSTER\source\repos\WordCounter\WordCounter\bin\Debug\WordCounter.exe
+C:\Users\MONSTER\source\repos\WordCounter\WordCounter\bin\Debug\WordCounter.pdb
+C:\Users\MONSTER\source\repos\WordCounter\WordCounter\obj\Debug\WordCounter.exe
+C:\Users\MONSTER\source\repos\WordCounter\WordCounter\obj\Debug\WordCounter.pdb
